@@ -68,11 +68,11 @@ const Hero = () => {
           {/* Profile Image */}
           <div className="flex-1 flex justify-center md:justify-end animate-slide-up">
             <div className="relative">
-              <div className="w-80 h-80 md:w-96 md:h-96 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center soft-shadow">
-                <div className="w-72 h-72 md:w-88 md:h-88 rounded-full overflow-hidden">
+              <div className="w-64 h-64 md:w-72 md:h-72 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center soft-shadow">
+                <div className="w-56 h-56 md:w-64 md:h-64 rounded-full overflow-hidden">
                   <img 
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" 
-                    alt="Hemant Sahu" 
+                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face" 
+                    alt="Hemant Sahu"
                     className="w-full h-full object-cover"
                   />
                 </div>
