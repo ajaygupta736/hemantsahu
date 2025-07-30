@@ -13,7 +13,7 @@ const Footer = () => {
             and lots of coffee.
           </p>
           <p className="text-sm text-muted-foreground mt-2">
-            Built with React, TypeScript, and Tailwind CSS
+            Built with React and Tailwind CSS
           </p>
         </div>
       </div>
